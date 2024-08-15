@@ -1,0 +1,3 @@
+main : 4344FF
+green : 35DB00
+red : B51000
